@@ -30,5 +30,5 @@ Oleksii Sydorenko:
 - [Github](https://github.com/tomiho19)
 
 ## License
-Copyright © 2018, [Oleksii Sydorenko](https://github.com/tomiho19).
+Copyright © 2021, [Oleksii Sydorenko](https://github.com/tomiho19).
 Released under the [MIT License](LICENSE).

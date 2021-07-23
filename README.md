@@ -7,12 +7,12 @@ Returns true if passwords are equal, otherwise returns false.
 ## Install
 Install with npm:
 ```
-$ npm install --save arepasswordsequal
+$ npm install --save are-passwords-equal
 ```
 ## Usage
 Works only with strings:
 ```
-const arePasswordsEqual = require('arepasswordsequal'); // or import arePasswordsEqual from 'arepasswordsequal';
+const arePasswordsEqual = require('are-passwords-equal'); // or import arePasswordsEqual from 'are-passwords-equal';
 
 console.log(arePasswordsEqual('password', 'another_passowrd')); //=> false
 console.log(arePasswordsEqual('password', 'passowrd')); //=> true

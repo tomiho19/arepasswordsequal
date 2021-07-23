@@ -12,7 +12,7 @@ $ npm install --save arepasswordsequal
 ## Usage
 Works only with strings:
 ```
-const arePasswordsEqual = require('{%= name %}');
+const arePasswordsEqual = require('arepasswordsequal'); // or import arePasswordsEqual from 'arepasswordsequal';
 
 console.log(arePasswordsEqual('password', 'another_passowrd')); //=> false
 console.log(arePasswordsEqual('password', 'passowrd')); //=> true

@@ -1,0 +1,22 @@
+{
+  "name": "arepasswordsequal",
+  "version": "1.0.0",
+  "description": "Returns true if passwords are equal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomiho19/arepasswordsequal.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Oleksii Sydorenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomiho19/arepasswordsequal/issues"
+  },
+  "homepage": "https://github.com/tomiho19/arepasswordsequal#readme"
+}
